@@ -1,3 +1,3 @@
-# Color-Lighting-System
+# Color Lighting
 
 Coming soon!
